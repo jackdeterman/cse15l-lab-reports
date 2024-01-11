@@ -9,84 +9,79 @@ It includes
 
 In the meantime, listen to these songs too
 
+
+
+
 The introduction to "The Weekend" by Mac Miller
 
-**[Intro: Mac Miller]
-Yeah, yeah, yeah, yeah
-Yeah, yeah, yeah, yeah
-Yeah, yeah, yeah, yeah
-Uh, uh, (Uh, uh)
-Yeah, yeah, yeah, yeah
-Yo, now**
+**[Intro: Mac Miller]<br/>
+Yeah, yeah, yeah, yeah<br/>
+Yeah, yeah, yeah, yeah<br/>
+Yeah, yeah, yeah, yeah<br/>
+Uh, uh, (Uh, uh)<br/>
+Yeah, yeah, yeah, yeah<br/>
+Yo, now**<br/>
 
 
 
 And every single lyric to "Style" by Taylor Swift
 
-[Verse 1]
-Midnight
-You come and pick me up, no headlights
-A long drive
-Could end in burning flames or paradise
-Fade into view, oh
-It's been a while since I have even heard from you
-(Heard from you)
+[Verse 1]<br/>
+Midnight <br/>
+You come and pick me up, no headlights<br/>
+A long drive<br/>
+Could end in burning flames or paradise<br/>
+Fade into view, oh<br/>
+It's been a while since I have even heard from you<br/>
+(Heard from you)<br/>
 
-[Pre-Chorus]
-And I should just tell you to leave, 'cause I
-Know exactly where it leads, but I
-Watch us go 'round and 'round each time
+[Pre-Chorus]<br/>
+And I should just tell you to leave, 'cause I<br/>
+Know exactly where it leads, but I<br/>
+Watch us go 'round and 'round each time<br/>
 
-[Chorus]
-You got that James Dean daydream look in your eye
-And I got that red lip classic thing that you like
+[Chorus]<br/>
+You got that James Dean daydream look in your eye<br/>
+And I got that red lip classic thing that you like<br/>
+And when we go crashing down, we come back every time<br/>
+'Cause we never go out of style, we never go out of style<br/>
+You got that long hair, slicked back, white t-shirt<br/>
+And I got that good girl faith and a tight little skirt<br/>
+And when we go crashing down, we come back every time<br/>
+'Cause we never go out of style, we never go out of style<br/>
+
+[Verse 2]<br/>
+So it goes<br/>
+He can't keep his wild eyes on the road, mmm<br/>
+Takes me home<br/>
+The lights are off, he's taking off his coat, mmm, yeah<br/>
+I say, "I heard, oh<br/>
+That you've been out and about with some other girl"<br/>
+Some other girl<br/>
+
+[Pre-Chorus]<br/>
+He says, "What you heard is true, but I<br/>
+Can't stop thinking 'bout you and I"<br/>
+I said, "I've been there too a few times"<br/>
+
+[Chorus]<br/>
+'Cause you got that James Dean daydream look in your eye<br/>
+And I got that red lip classic thing that you like<br/><br/>
 And when we go crashing down, we come back every time
-'Cause we never go out of style, we never go out of style
-You got that long hair, slicked back, white t-shirt
-And I got that good girl faith and a tight little skirt
-And when we go crashing down, we come back every time
-'Cause we never go out of style, we never go out of style
+'Cause we never go out of style, we never go out of style<br/>
+You got that long hair, slicked back, white t-shirt<br/>
+And I got that good girl faith and a tight little skirt (A tight little skirt)<br/>
+And when we go crashing down, we come back every time<br/>
+'Cause we never go out of style (We never go, we never go), we never go out of style<br/>
 
-[Verse 2]
-So it goes
-He can't keep his wild eyes on the road, mmm
-Takes me home
-The lights are off, he's taking off his coat, mmm, yeah
-I say, "I heard, oh
-That you've been out and about with some other girl"
-Some other girl
-See Taylor Swift Live
-Get tickets as low as $186
-You might also like
-Clean
-Taylor Swift
-Welcome to New York
-Taylor Swift
-Out Of The Woods
-Taylor Swift
-[Pre-Chorus]
-He says, "What you heard is true, but I
-Can't stop thinking 'bout you and I"
-I said, "I've been there too a few times"
+[Bridge]<br/>
+Take me home (Ah)<br/>
+Just take me home (Ah)<br/>
+Yeah, just take me home (Ah)<br/>
+Oh-oh, woah-oh, oh (Out of style)<br/>
 
-[Chorus]
-'Cause you got that James Dean daydream look in your eye
-And I got that red lip classic thing that you like
-And when we go crashing down, we come back every time
-'Cause we never go out of style, we never go out of style
-You got that long hair, slicked back, white t-shirt
-And I got that good girl faith and a tight little skirt (A tight little skirt)
-And when we go crashing down, we come back every time
-'Cause we never go out of style (We never go, we never go), we never go out of style
-
-[Bridge]
-Take me home (Ah)
-Just take me home (Ah)
-Yeah, just take me home (Ah)
-Oh-oh, woah-oh, oh (Out of style)
-
-[Chorus]
-Oh, you got that James Dean daydream look in your eye
-And I got that red lip classic thing that you like
-And when we go crashing down (And when we go), we come back every time
-'Cause we never go out of style, we never go out of style
+[Chorus]<br/>
+Oh, you got that James Dean daydream look in your eye<br/>
+And I got that red lip classic thing that you like<br/>
+And when we go crashing down (And when we go), we come back every time<br/>
+'Cause we never go out of style, we never go out of style<br/>
