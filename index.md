@@ -1,1 +1,1 @@
-This is going to be my index apparently.
+![image](Labreport1_directory.png)
