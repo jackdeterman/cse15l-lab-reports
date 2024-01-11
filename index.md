@@ -4,6 +4,6 @@ For all of these commands, I am in the home directory, indicated by a "~" in the
 
 ![image](Labreport1_directory.png)
 
-
+I am once again in the home directory for all of these commands. When I used the cd command, I gave the terminal the path to the messages directory. As this is a valid directory, the terminal changed my working directory to the messages directory. When I used the ls command, I passed the home directory the path to the messages directory. As such, the terminal listed all of the files and directories in the messages directory. These included all of the txt files underneath the messages directory, including the one I added during the lab. For the cat command, I passed it the path to the messages directory as an argument. This returned an issue, because cat expects two arguments to concatenate, or combine. Since there was no text to concatenate, it returned 
 
 ![image](Labreport1_files.png)
