@@ -13,3 +13,11 @@ Just like in the previous example, the method in my code that gets called is `ha
 Once again, my method followed the same steps as above to parse the query and extract `user` and `message` from it before permanently adding to  `chat`.
 
 
+![image](Lab_Report_Key_Screenshot.png)
+
+This is a screenshot of the path to my public and private ssh keys. Of course, I did not screenshot the actual keys, but if I run the command `cat rsa_id.pub` or `cat rsa_id`, I can see and directly access my public and private ssh keys.
+
+
+![image](Remote_Connection_Screenshot.png)
+
+This is a screenshot of a terminal interaction where I log into my `ieng6` account without using my password.
