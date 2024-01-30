@@ -17,7 +17,7 @@ Once again, my method followed the same steps as above to parse the query and ex
 
 <br>
 <br>
-<br\>
+<br>
 
 _PART 2_
 
