@@ -15,9 +15,11 @@ Just like in the previous example, the method in my code that gets called is `ha
 
 Once again, my method followed the same steps as above to parse the query and extract `user` and `message` from it before permanently adding to  `chat`.
 
+\n
+\n
+\n
 
-
-_PART 1_
+_PART 2_
 
 
 ![image](Lab_Report_Key_Screenshot.png)
