@@ -1,3 +1,6 @@
+_PART 1_
+
+
 ![image](Lab_Report_Screenshot.png)
 
 The method in my code that gets called is `handleRequest(URI url)`. This is the main method of the `ChatServer.java` file, which parses the server's URL and outputs the correct messages onto the webpage. The only argument this method takes, and thus the only relevant argument, is the URL of the server being run. This is important because the values of different variables within the class change depending on the url of the server.
@@ -11,6 +14,10 @@ This is another example of a slightly more complicated argument passed to the me
 Just like in the previous example, the method in my code that gets called is `handleRequest(URI url)`. The only relevant argument is the URL of the server being run.
 
 Once again, my method followed the same steps as above to parse the query and extract `user` and `message` from it before permanently adding to  `chat`.
+
+
+
+_PART 1_
 
 
 ![image](Lab_Report_Key_Screenshot.png)
