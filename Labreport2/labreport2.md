@@ -52,4 +52,4 @@ This is a screenshot of a terminal interaction where I log into my `ieng6` accou
 
 _PART 3_
 
-I completely forgot some of the nuances of remote connection when I was doing this lab, and ended up asking for help about it on EdStem. To be honest, I still have some experimenting to do to figure out some of the stuff that was going on, but I did realize that I was not supposed to be running this lab remotely, which made things go much more smoothly once I adjusted to them. I definitely learned about remote connections the past few weeks.
+I completely forgot some of the nuances of remote connection when I was doing this lab, and ended up asking for help about it on EdStem. I still have some experimenting to do to figure out some of the stuff that was going on, but I did realize that I was not supposed to be running this lab remotely, which made things go much more smoothly once I adjusted to them. I learned about remote connections in the past few weeks.
