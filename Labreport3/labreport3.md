@@ -8,8 +8,6 @@ The bug I am choosing from Week 4's lab is the bug present in the `append` metho
 
 Here is a failure-inducing input for the buggy method:
 
-<br>
-
 ```
 @Test 
 	public void testappend() {
@@ -22,12 +20,8 @@ Here is a failure-inducing input for the buggy method:
 	}
 ```
 <br>
-<br>
 
 The associated code that causes this to fail is the following:
-
-<br>
-
 ```
 while(n.next != null) {
             n = n.next;
@@ -36,8 +30,7 @@ while(n.next != null) {
 ```
 
 <br>
-<br>
-<br>
+
 
 An input that doesn't induce a failure is
 
