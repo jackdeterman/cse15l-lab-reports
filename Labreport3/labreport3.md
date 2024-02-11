@@ -54,7 +54,12 @@ Node n = this.root;
             return;
         }
 ```
+<br>
+<br>
 
+The symptoms associated with running the tests are shown below:
 
+![image](Lab_Report_3_Tests.png)
 
+And the bug, as before and after code blocks, is also shown below:
 
