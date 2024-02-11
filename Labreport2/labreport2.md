@@ -3,7 +3,7 @@ _PART 1_
 
 ![image](Lab_Report_2_Chat.png)
 
-Here is my code for the `ChatServer.java` important method.
+Here is my code for the `ChatServer.java` file.
 <br>
 <br>
 <br>
