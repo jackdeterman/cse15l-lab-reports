@@ -47,9 +47,6 @@ An input that doesn't induce a failure is
 
 The code associated with this test's passing is 
 
-<br>
-<br>
-
 ```
 Node n = this.root;
         if(n.next == null) {
