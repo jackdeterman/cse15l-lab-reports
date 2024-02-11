@@ -61,5 +61,13 @@ The symptoms associated with running the tests are shown below:
 
 ![image](Lab_Report_3_Tests.png)
 
+<br>
+<br>
+
 And the bug, as before and after code blocks, is also shown below:
+
+![image](Lab_Report_3_Before.png)
+![image](Lab_Report_3_After.png)
+
+The issue in the starter code is in the logic of the `while`-loop. Each time through the `while`-loop, `n.next` would be assigned to a new `Node` containing the `value` the user wanted to append to the list. As such, `n.next == null` was never satisfied, as `n.next` would be assigned to a new `Node` every time the `while`-loop was executed. This meant that the loop would run forever if the program reached it. By moving the assignment of the new `Node` to the outside of the `while`-loop, we prevent an infinite amount of new `Node` assignments. Now, only _after_ reaching the end of the list and satisfying `n.next == null`, we create a new `Node` with the desired `value` and append it to the list.
 
