@@ -23,7 +23,6 @@ Here is a failure-inducing input for the buggy method:
 ```
 <br>
 <br>
-<br>
 
 The associated code that causes this to fail is the following:
 
@@ -36,8 +35,35 @@ while(n.next != null) {
         }
 ```
 
+<br>
+<br>
+<br>
 
+An input that doesn't induce a failure is
 
+```
+@Test 
+	public void testappend() {
+    LinkedList test = new LinkedList();
+    test.append(1);
+    assertEquals(test.first(), 1);
+	}
+```
+
+<br>
+
+The code associated with this test's passing is 
+
+<br>
+<br>
+
+```
+Node n = this.root;
+        if(n.next == null) {
+            n.next = new Node(value, null);
+            return;
+        }
+```
 
 
 
