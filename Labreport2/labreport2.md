@@ -4,7 +4,9 @@ _PART 1_
 ![image](Lab_Report_2_Chat.png)
 
 Here is my code for the `ChatServer.java` important method.
-
+<br>
+<br>
+<br>
 
 ![image](Lab_Report_Screenshot.png)
 
@@ -30,6 +32,14 @@ _PART 2_
 ![image](Lab_Report_Key_Screenshot.png)
 
 This is a screenshot of the path to my public and private ssh keys. Of course, I did not screenshot the actual keys, but if I run the command `cat rsa_id.pub` or `cat rsa_id`, I can see and directly access my public and private ssh keys.
+
+<br>
+<br>
+<be>
+
+![image](pubkey_ieng6_lr2.png)
+
+This is a screenshot of my public key on `ieng6` (Showed using `ls`).
 
 
 ![image](Remote_Connection_Screenshot.png)
