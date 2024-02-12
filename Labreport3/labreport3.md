@@ -161,13 +161,13 @@ All of these examples were done using the same `.txt` file to show the contrasti
 
 <br>
 
-`grep -A n` (I used the default parameter `-A`) prints "...searched line and nlines after the result."
+`grep -A n` (I used the default parameter `-A`) prints "...searched line and nlines after the result." This command is useful because if you are ever searching for a specific phrase in context, using `grep -A` (Or `grep -B n` and `grep -C n`) allows you to look at lines of a text file that surround the one matching phrase you are searching for. For example, if one was using `grep` on a large `.txt` file containing the medical histories of patients, it would be very useful to use something like `grep -A 150 "Jack Determan" history.txt`. This would allow someone to search for my name in the `.txt` file and output the lines following my name, which would presumably be a known amount of lines containing my medical history.
 <br>
-`grep -i` "Ignores, case for matching"
+`grep -i` "Ignores, case for matching." I imagine this option being extremely useful when working with any data that is untidy (Which is almost all data). Searching for keywords among documents that contain uppercase and lowercase phrases implies using multiple `-grep` commands, one with an uppercase instance of the desired phrase and one with the lowercase instance. Being able to use `grep -i` bypasses this need, halving the time it takes to search a document for your desired phrase.
 <br>
-`grep -o` "Print only the matched parts of a matching line, with each such part on a separate output line."
+`grep -o` "Print only the matched parts of a matching line, with each such part on a separate output line." This command-line option is useful when all you care about is the exact phrase you're searching for. 
 <br>
-`grep -n`  "Display the matched lines and their line numbers."
+`grep -n`  "Display the matched lines and their line numbers." This is useful when you are going to plunge into the `.txt` file yourself after using `grep` to locate instances of your desired phrase. By knowing the location of the phrase in your file, you can easily find it and read the surrounding areas / extract the information that you need on your own.
 
 All of these command-line options were found on [Geeks for Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
