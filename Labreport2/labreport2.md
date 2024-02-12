@@ -37,7 +37,6 @@ This is a screenshot of the path to my public and private ssh keys. Of course, I
 <br>
 <be>
 
-![image](pubkey_ieng6_lr2.png)
 
 This is a screenshot of my public key on `ieng6` (Showed using `ls`).
 
