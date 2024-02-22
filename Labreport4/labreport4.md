@@ -34,7 +34,7 @@ For this step, I typed `git clone` and then `Ctrl + V` into my terminal, followe
 <br>
 
 For this step, I simply typed `cd lab7` followed by `Ctrl + V` and then `Enter` twice into the terminal, because I had already copied <br>
-the correct test-running command from the lab report write-up.  As such, all I had to manually type was the `cd` command to switch <br>
+the correct test-running commands from the lab report write-up.  As such, all I had to manually type was the `cd` command to switch <br>
 to the correct repository. I could've also typed `la` + `Tab` or something like that, but it wouldn't have saved much time. I also <br>
 used the `ls` command, but this was not for functionality, just to show that the correct repositories and files existed in the <br>
 right locations.
