@@ -9,8 +9,7 @@
 
 <br>
 
-For this step, I typed `ssh jodeterman@ieng6-201.ucsd.edu` into my terminal. This isn't really using any shortcuts, because I had <br>
-started a new terminal to complete this lab report. I did not have this connection in my command history.
+For this step, I typed `ssh jodeterman@ieng6-201.ucsd.edu` into my terminal, followed by `Enter`. This isn't using any shortcuts, <br> because I had started a new terminal to complete this lab report. I did not have this connection in my command history.
 
 ### Step 5. Cloning my fork of the repository:
 
@@ -21,8 +20,7 @@ started a new terminal to complete this lab report. I did not have this connecti
 
 <br>
 
-For this step, I typed `git clone` and then `Ctrl + V` into my terminal. I had copied the GitHub address from my repository, and so <br>
-I did not need to type out  `git@github.com` blah blah blah. 
+For this step, I typed `git clone` and then `Ctrl + V` into my terminal, followed by `Enter`. I had copied the GitHub address from my <br> repository, and so I did not need to type out  `git@github.com` blah blah blah. 
 <br>
 <br>
 
