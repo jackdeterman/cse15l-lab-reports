@@ -1,4 +1,7 @@
-### Strange Sum Calculation in Java Program
+# Part 1:
+
+
+#### Strange Sum Calculation in Java Program
 
 Hello, I've been working on a Java program for our assignment that calculates the sum of numbers read from a file. 
 It works fine for small numbers, but when I tested it with a larger set of numbers, the sum was wildly incorrect. 
@@ -7,6 +10,7 @@ Here's a part of the output I got:
 
 <br>
 
+![image](Bugged.png)
 
 <br>
 
@@ -29,6 +33,8 @@ Thanks for the tip! I changed my sum variable from int to long, and it fixed the
 The sum is now correct, even for the large set of numbers. Here's the corrected output:
 
 <br>
+
+![image](Fixed.png)
 
 <br>
 
@@ -103,11 +109,17 @@ java MyProgram "$1"
 ```
 <br>
 
-Description of What to Edit to Fix the Bug:
-In MyProgram.java, change the data type of the sum variable from int to long to handle larger sums without overflowing:
+#### Full command line to trigger the buggy output:
 
-java
-Copy code
-long sum = 0; // instead of int sum = 0;
-This more nuanced bug introduces the concept of integer overflow and the importance of choosing the right data type based on the expected range of values.
+`./runProgram.sh largeNumbers.txt`
 
+#### Description of What to Edit to Fix the Bug:
+In MyProgram.java, change the data type of the sum variable from int to long to handle larger sums without overflowing.
+
+
+# Part 2:
+
+I learned about vim in the second half of this quarter. While I was already comfortable with a lot of the programming in this class,
+I had never used vim before. It was fun to get used to editing files with the keyboard shortcuts in that way, although
+it was very frustrating at first. I can see how it's a superpower when you become good at it, so I'm going to try to work in vim
+more to get used to different methods of changing cells.
